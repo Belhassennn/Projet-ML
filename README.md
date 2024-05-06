@@ -49,11 +49,10 @@ Steps :
 4- Feature Scaling
 You Can Find the Data Preprecessing notebook -->Here
 Modeling:
-A. Predict the Position of the Player Using 8 Classification Algorithms --> NoteBook
+A. Predict the Position of the Player Using 2 Classification Algorithms --> NoteBook
 
 B. Group the Players in Clusters Based on their Similarities Using 4 Clustering Algorithms --> NoteBook
 
-Deployment:
-Deployed the Classification Model using Flask and make HTML pages to test the predictions.
+
 
 You Can Find the Deployment Files -->Here
